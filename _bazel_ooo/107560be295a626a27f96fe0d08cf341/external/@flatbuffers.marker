@@ -1,0 +1,4 @@
+9d3accecd11b36b3b60f08aed92a5c1d
+FILE://third_party/flatbuffers:build_defs.bzl fa718b2d9537bb770c709e62ab92a80ca2fc4b945ec18bb5c9a260c287220d0b
+ENV:TF_SYSTEM_LIBS \0
+FILE://third_party/flatbuffers:BUILD.bazel 8bb1465bfb77a8f74c78dd5b9fd58b2e117eeb610f414f95cc69b7fb7cdb982a

@@ -1,0 +1,6 @@
+995e2172c7457e099e28e9cbf13e75a1
+FILE:@org_tensorflow//:BUILD 55addef5caa5582d5449dfe80590a6d3d9fe5e270b1ef81590ea25a20ae8280b
+FILE:@org_tensorflow//tensorflow/tools/git:gen_git_source.py c528269fe0c3351385be36fc7eb3157e80051b39ecab6a0ceb0de02351458c69
+ENV:PYTHON_BIN_PATH \0
+FILE://third_party/git:BUILD.tpl c25173c660140a203bb99b41fa3abcd025705f4c0b66e40ae2ce35345e7ee308
+FILE://:.git/HEAD f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10

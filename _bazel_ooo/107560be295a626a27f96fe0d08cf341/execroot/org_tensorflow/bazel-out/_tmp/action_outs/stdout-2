@@ -1,0 +1,1 @@
+This build requires an Android SDK. Please add the android_sdk_repository rule to your WORKSPACE.

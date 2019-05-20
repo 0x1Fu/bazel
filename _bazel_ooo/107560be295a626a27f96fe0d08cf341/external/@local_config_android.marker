@@ -1,0 +1,8 @@
+c2866cad6e2c1eda51819fdb43f4e0d9
+ENV:ANDROID_SDK_API_LEVEL \0
+ENV:ANDROID_NDK_HOME /home/ooo/Workspace/android-ndk-r17b/
+ENV:ANDROID_NDK_API_LEVEL \0
+ENV:ANDROID_BUILD_TOOLS_VERSION \0
+ENV:ANDROID_SDK_HOME /home/ooo/Workspace/android-ndk-r17b/
+FILE://third_party/android:android_configure.BUILD.tpl e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FILE://third_party/android:android.bzl.tpl f97f25abaee5b8259e512238abcedf9114ec512e2312373c0332a5675e146fff

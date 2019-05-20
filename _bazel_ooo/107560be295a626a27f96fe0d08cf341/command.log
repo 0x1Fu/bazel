@@ -1,0 +1,25 @@
+[32mLoading:[0m 
+[1A[K[32mLoading:[0m 0 packages loaded
+[1A[K[32mAnalyzing:[0m target //tensorflow/lite/java:tensorflowlite.aar (0 packages loaded, 0 targets configured)
+[1A[K[35mWARNING: [0m/home/ooo/Workspace/tensorflow/tensorflow/lite/java/BUILD:43:12: in srcs attribute of android_library rule //tensorflow/lite/java:tensorflowlite: please do not import '//tensorflow/lite/delegates/nnapi/java/src/main/java/org/tensorflow/lite/nnapi:NnApiDelegate.java' directly. You should either move the file to this package or depend on an appropriate rule there
+[32mAnalyzing:[0m target //tensorflow/lite/java:tensorflowlite.aar (1 packages loaded, 36 targets configured)
+[1A[K[32mINFO: [0mAnalyzed target //tensorflow/lite/java:tensorflowlite.aar (1 packages loaded, 37 targets configured).
+[32mBuilding:[0m checking cached actions
+[1A[K[32mINFO: [0mFound 1 target...
+[32mBuilding:[0m checking cached actions
+[1A[K[32m[0 / 1][0m [-----] BazelWorkspaceStatusAction stable-status.txt
+[1A[K[31m[1mERROR: [0m/home/ooo/.cache/bazel/_bazel_ooo/107560be295a626a27f96fe0d08cf341/external/bazel_tools/tools/android/BUILD:372:1: Executing genrule @bazel_tools//tools/android:no_android_sdk_repository_error failed (Exit 1)
+[32m[2 / 6][0m checking cached actions
+[1A[KThis build requires an Android SDK. Please add the android_sdk_repository rule to your WORKSPACE.
+[32m[2 / 6][0m checking cached actions
+[1A[KTarget //tensorflow/lite/java:tensorflowlite.aar failed to build
+[32m[2 / 6][0m checking cached actions
+[1A[KUse --verbose_failures to see the command lines of failed build steps.
+[32m[2 / 6][0m checking cached actions
+[1A[K[32mINFO: [0mElapsed time: 1.143s, Critical Path: 0.03s
+[32m[2 / 6][0m checking cached actions
+[1A[K[32mINFO: [0m0 processes.
+[32m[2 / 6][0m checking cached actions
+[1A[K[31m[1mFAILED:[0m Build did NOT complete successfully
+[1A[K[31m[1mFAILED:[0m Build did NOT complete successfully
+[0m

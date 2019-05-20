@@ -1,0 +1,3 @@
+BUILD_EMBED_LABEL 
+BUILD_HOST ooo-Parallels-Virtual-Platform
+BUILD_USER ooo
